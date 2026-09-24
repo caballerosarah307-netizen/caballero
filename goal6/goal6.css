@@ -1,0 +1,36 @@
+/* goal6 */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+}
+
+.outer {
+    background-color: purple;
+    padding: 10px;
+}
+
+.container {
+    background-color: blue;
+    padding: 10px;
+}
+
+h2 {
+    color: yellow;
+    margin: 0 0 10px 0;
+}
+
+.box {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+.box:last-child {
+    margin-bottom: 0;
+}

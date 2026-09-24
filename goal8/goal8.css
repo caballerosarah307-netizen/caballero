@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.blue-box {
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+
+    position: absolute;
+    left: 200px;
+    top: 20px;
+}
+
+.red-circle {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+
+    border-radius: 50%;
+
+    position: absolute;
+    left: 250px;
+    top: 150px;
+}

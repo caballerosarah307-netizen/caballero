@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: white;
+}
+
+.hello {
+    background-color: #74b89a;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
+.world {
+    background-color: #c77d19;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 5px 10px;
+}

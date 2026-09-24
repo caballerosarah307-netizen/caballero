@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: white;
+}
+
+
+.container {
+    width: 850px;
+    min-height: 850px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #19a9d8;
+    color: white;
+    position: relative;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0 0 45px 0;
+    font-weight: bold;
+}
+
+.color {
+    color: #ff7777;
+    font-size: 25px;
+    margin: 0 0 100px 0;
+}
+
+.font-size {
+    color: white;
+    font-size: 70px;
+    margin: 0 0 100px 0;
+}
+
+.font-weight {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0 0 35px 0;
+}
+
+.font-family {
+    font-family: cursive;
+    font-size: 25px;
+    font-style: italic;
+    margin: 0;
+}
+
+.text-align {
+    position: absolute;
+    right: 20px;
+    top: 580px;
+    font-size: 25px;
+}
+
